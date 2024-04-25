@@ -1,5 +1,5 @@
-# Assignments_GuessTheNumber
-Assignment for The Development Academy
+# GuessTheNumber
+
 This project uses the random module in Python. 
 The program will first randomly generate an unknown number. 
 The user needs to guess what that number is. 
